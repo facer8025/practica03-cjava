@@ -1,0 +1,7 @@
+application:
+  author: Fabio Ceron
+  email: facer8025@gmail.com
+  version: 1.0.0
+  title: Java Expert - Spring Boot Proyecto Productor con BD MySql8
+  description: Aplicacion bajo arquitectura de microservicios
+

@@ -1,0 +1,8 @@
+server:
+  port: 7071
+
+configuracion:
+  mensaje: Configuracion ambiente de produccion
+
+application:
+  description: Aplicacion bajo arquitectura de microservicios
