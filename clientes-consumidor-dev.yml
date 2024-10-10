@@ -7,4 +7,4 @@ configuration:
   email: facer8025@gmail.com
 
 server:
-  port: 8070
+  port: 8071
