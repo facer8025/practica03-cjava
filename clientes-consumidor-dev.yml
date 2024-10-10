@@ -1,10 +1,10 @@
 application:
   description: Aplicacion bajo arquitectura de microservicios java
 
-configuracion:
-  mensaje: Configuracion entorno Desarrollo
-  nombre: Fabio Ceron
+configuration:
+  message: Configuracion entorno Desarrollo
+  name: Fabio Ceron
   email: facer8025@gmail.com
 
 server:
-  port: 7070
+  port: 8070
